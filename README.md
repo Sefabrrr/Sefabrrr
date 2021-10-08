@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sefabrrr
-- 👀 I’m interested in doing sports
+- 👀 I’m interested in making games
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on game developers
 
